@@ -21,6 +21,14 @@ An Arduino-based automatic barrier gate. An **HC-SR04 ultrasonic sensor** detect
 
 ## Wiring
 
+### Circuit Diagram
+
+![Smart Gate System pictorial wiring diagram](servo-get-system-Arduino-ultrasonic%20Public%20pictorial%20wiring%20diagram.png)
+
+The diagram shows the system powered by a 2-cell battery pack through an on/off switch and a buck converter set to 5V.
+
+### Pin Summary
+
 ```
                  +-------------------------------+
                  |       Arduino Uno / Nano      |
